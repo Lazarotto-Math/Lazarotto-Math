@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou o Matheus Lazarotto, um desenvolvedor iniciante residindo em *Santa Catarina - Brasil*</p>
+<p align="left">Sou o Matheus Lazarotto, um desenvolvedor iniciante residindo em Santa Catarina - Brasil</p>
 
 ###
 
