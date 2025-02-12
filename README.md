@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Minha jornada na programação iniciou em 2024<br>📚 Estudante de Ciências da Computação na UFFS<br>🎯 Atualmente focado em data science</p>
+<p align="left">✨ Minha jornada na programação iniciou em 2024<br>📚 Estudante de Ciências da Computação na UFFS<br>🎯 Data Science</p>
 
 ###
 
